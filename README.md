@@ -1,7 +1,7 @@
-Air Quality Analysis and Prediction
+#Air Quality Analysis and Prediction
 This project focuses on the analysis and prediction of air quality in Tamil Nadu, India, using data from the Central Pollution Control Board (CPCB) for the year 2014. The analysis includes data cleaning, visualization, and regression modeling to understand pollutant levels and predict their values.
 
-Contents:
+#Contents:
 Data Cleaning and Preparation: The data from the CPCB is cleaned, preprocessed, and prepared for analysis. Missing values are handled, data types are adjusted, and categorical variables are encoded for modeling.
 
 Data Visualization: The cleaned data is visualized to gain insights into pollutant levels over time (by month) and their distribution. Visualizations include bar charts, pie charts, and line graphs for convenient interpretation.
